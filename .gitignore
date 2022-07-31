@@ -1,0 +1,11 @@
+/.metadata/
+/build/*
+.vscode
+.vscode/*
+main/build/*
+sdkconfig
+sdkconfig.old
+main/sdkconfig
+main/sdkconfig.old
+build/*
+build
